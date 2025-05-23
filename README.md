@@ -8,3 +8,4 @@ Usage:  to create a new mind map.
 Contribute: Check [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 License: MIT License, see [LICENSE](LICENSE) for details.
 Testing: Run  to execute unit tests.
+FAQ: Export maps via [export.md](docs/export.md).
